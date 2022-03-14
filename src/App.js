@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Java<code> Application</code> with reactjs frontend
+          wordpress<code> Application</code> with reactjs frontend
         </p>
         <a
           className="App-link"
