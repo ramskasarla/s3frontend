@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://snakes.poc6.ga"
+          href="https://www.google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          POC 6
+          Lavanya Govada
         </a>
       </header>
     </div>
