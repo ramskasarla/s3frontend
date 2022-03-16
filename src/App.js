@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://www.google.com"
+          href="https://ebs.lavanyabackend.tk/"
           target="_blank"
           rel="noopener noreferrer"
         >
