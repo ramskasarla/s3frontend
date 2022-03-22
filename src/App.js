@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CLICK HERE TO GO TO BACKEND
+          Ramya Reddy
         </a>
       </header>
     </div>
